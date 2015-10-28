@@ -1,0 +1,9 @@
+---
+:orm: none
+:test: testunit
+:mock: none
+:script: none
+:renderer: none
+:stylesheet: none
+:namespace: YomouWebapi
+:migration_format: number
